@@ -1,0 +1,2 @@
+
+api.key.nytimes <- "08c3568682a44bc2ba455bd469330158"
