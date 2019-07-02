@@ -1,3 +1,2 @@
 # Juyoung817
-Project
-A line I wrote on online.
+This is my work history.
