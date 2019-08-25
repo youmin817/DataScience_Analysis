@@ -1,0 +1,4 @@
+Created dash app backed for bashboard.
+This is Flash app.
+
+The dashboard has ACT score by stduents, ACT score by subjects ,and ACT score prediction by using Random Forest.
