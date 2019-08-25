@@ -1,4 +1,4 @@
-Studen's reporting app in Dash Plotly.
+Created Dash App backed for dashboard
 
-I have been working on it.
+This app has ACT score by students and subjects and student achievement prediction by using Random Forest.
 
